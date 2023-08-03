@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(117, 76, 156);
+    border: 10px rgb(77, 3, 114) dashed;
+    
+}
+canvas{
+    border:5px solid black
+}
